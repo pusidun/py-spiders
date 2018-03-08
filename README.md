@@ -4,4 +4,4 @@
 
 ## Content
 
-- [pkdex](https://github.com/pusidun/py-spiders/blob/master/ch01/README.md)
+- [pkdex](https://github.com/pusidun/py-spiders/blob/master/pkdex/README.md)
